@@ -1,0 +1,17 @@
+{
+    "name": "FirstCourse",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a343d9765eaaa1a4b8388412eea37d07",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
